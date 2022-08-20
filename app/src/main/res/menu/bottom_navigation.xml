@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/myClass"
+        android:icon="@drawable/ic_myclass"
+        android:title="MY Classes"/>
+
+    <item
+        android:id="@+id/calander"
+        android:icon="@drawable/ic_calendar"
+        android:title="Calander"/>
+    <item
+        android:id="@+id/allClasses"
+        android:icon="@drawable/ic_all_classes"
+        android:title="All Classes"/>
+
+
+
+    <item
+        android:id="@+id/workingList"
+        android:icon="@drawable/ic_time"
+        android:title="Working List"/>
+
+
+</menu>
